@@ -1,0 +1,3 @@
+Flask
+flask-keystone==0.2
+
